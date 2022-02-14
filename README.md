@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @CarlosMArizmendi
+- "Cualquier tecnología lo suficientemente avanzada es indistinguible de la magia."  ~Arthur C.
 - 👀 I’m interested in ... learning everything about software developing
 - 🌱 I’m currently learning ... AWS cloud
 - 💞️ I’m looking to collaborate on ...
